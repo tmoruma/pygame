@@ -1,7 +1,7 @@
 ## README
 
  - Python 3.9.1
- - Arcade 2.5.2
+ - Pygame 2.0.1
 
 ## Authors
 
